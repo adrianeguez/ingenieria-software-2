@@ -5,4 +5,5 @@ Juanita uno
 Pepito dos
 Juanita dos
 Seno
+Restar negativos
 Coseno
